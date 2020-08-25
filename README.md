@@ -14,7 +14,7 @@ I also speak at different events (Angular PH, ReactJSPH, Skylabs, Devcon, PWA Pi
 
 
 Reach Me!
-Website: https://seijivillafranca.com
-twitter: https://twitter.com/SageVillafranca
-Blog:  https://seijivillafranca.com/blog
-Email: villafrancasra@gmail.com
+- Website: https://seijivillafranca.com
+- twitter: https://twitter.com/SageVillafranca
+- Blog:  https://seijivillafranca.com/blog
+- Email: villafrancasra@gmail.com
