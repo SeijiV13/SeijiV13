@@ -21,4 +21,4 @@ Reach Me!
 - Blog:  https://seijivillafranca.com/blog
 - Email: villafrancasra@gmail.com
 
-![MVP_Logo_Horizontal_Secondary_Blue288_RGB_300ppi](https://user-images.githubusercontent.com/10501521/136693778-7ce0d13f-ea90-4c9e-ab0a-8f6d8e2ce343.png)
+![MVP_Logo_Horizontal_Secondary_Blue288_RGB_300ppi](https://user-images.githubusercontent.com/10501521/136693778-7ce0d13f-ea90-4c9e-ab0a-8f6d8e2ce343.png | width = 100)
