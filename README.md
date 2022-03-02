@@ -3,7 +3,7 @@
 <!--
 **SeijiV13/SeijiV13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Im currenty a Senior Software Engineer of SmartBite Malaysia and one of the the Communty Leads for Angular PH, Im also
+Im currenty a Senior Developer and one of the the Communty Leads for Angular PH, Im also
 one of the Microsoft MVPs here in the Philippines.
 
 I speak at different events (Angular PH, ReactJSPH, Skylabs, Devcon, PWA Pilipinas) 
