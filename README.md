@@ -1,5 +1,5 @@
 <h1 align="center">Kamusta! 👋, I'm Seiji Villafranca</h1>
-<h3 align="center">Im currenty a Senior Developer from the Netherlands and one of the the Communty Leads for Angular PH, Im also one of the Microsoft MVPs here in the Philippines.</h3>
+<h4 align="center">Im currenty a Senior Developer from the Netherlands and one of the the Communty Leads for Angular PH, Im also one of the Microsoft MVPs here in the Philippines.</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seijiv13" alt="seijiv13" /></a> </p>
 
