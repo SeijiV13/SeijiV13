@@ -1,4 +1,5 @@
 <h2 align="center">Kamusta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Seiji Villafranca</h2>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h6 align="center">Im currenty a Senior Developer based in the Netherlands and one of the the Communty Leads for Angular PH, Im also one of the Filipino Microsoft MVPs.</h6>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seijiv13" alt="seijiv13" /></a> </p>
