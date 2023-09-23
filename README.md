@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [seijivillafranca.com/blogs](seijivillafranca.com/blogs)
 
-- 💬 Ask me about **Angular, React TypeScript and Azure**
+- 💬 Ask me about **Angular, React, Node, TypeScript and Azure**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/seiji-ralph-villafranca/](https://www.linkedin.com/in/seiji-ralph-villafranca/)
 
