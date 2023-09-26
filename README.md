@@ -30,9 +30,9 @@
 	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/SageVillafranca">
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" >
 	</a>
-	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
+<!-- 	<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
 		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" >
-	</a>
+	</a> -->
 </div>
 
 </p>
