@@ -21,7 +21,7 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/1SeijiV13">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png">
 	</a>
-	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/18634264/seiji-villafranca">
 		<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png">
 	</a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/seijiv10">
