@@ -1,4 +1,4 @@
-<h2 align="center">Kamusta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Seiji Villafranca</h2> 👋
+<h2 align="center">Kamusta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Seiji Villafranca 👋</h2> 
 <h6 align="center">Im currenty a Senior Developer based in the Netherlands and one of the the Communty Leads for Angular PH, Im also one of the Filipino Microsoft MVPs.</h6>
 
 
