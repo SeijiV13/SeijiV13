@@ -1,7 +1,7 @@
 <h2 align="center">Kamusta! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Seiji Villafranca</h2>
 <h6 align="center">Im currenty a Senior Developer based in the Netherlands and one of the the Communty Leads for Angular PH, Im also one of the Filipino Microsoft MVPs.</h6>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=SeijiV13" alt="seijiv13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=seijiv13&theme=onedark" alt="seijiv13" /></a> </p>
 
 - 🔭 I’m currently working on **Nyx Components**
 
