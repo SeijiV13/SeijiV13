@@ -37,7 +37,7 @@
 
 </p>
 
-<img src="https://holopin.me/seijiv13)">
+[<img src="https://holopin.me/seijiv13)">](https://holopin.me/seijiv13)
 .
 <h5 align="center">Languages and Tools</h5>
 <div align="center"  class="icons-social" style="margin-left: 10px;">
