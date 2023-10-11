@@ -2,7 +2,7 @@
 <h6 align="center">Im currenty a Senior Developer based in the Netherlands and one of the the Communty Leads for Angular PH, Im also one of the Filipino Microsoft MVPs.</h6>
 
 
-<a href="https://www.holopin.io/@SeijiV13)">
+<a href="https://www.holopin.io/@SeijiV13">
   <img src="https://holopin.io/@SeijiV13" alt="SeijiV13 Holopin board" />
 </a>
 
