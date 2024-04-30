@@ -6,7 +6,7 @@
   <img src="https://holopin.me/seijiv13?" alt="SeijiV13 Holopin board" />
 </a>
 
-- 🔭 I’m currently working on **MentorHub Philippines**
+- 🔭 I’m currently working on **Web and Mobile Projects **
 
 - 👨‍💻 All of my projects are available at [seijivillafranca.com](seijivillafranca.com)
 
